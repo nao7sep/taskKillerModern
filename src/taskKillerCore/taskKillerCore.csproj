@@ -11,7 +11,7 @@
     <!-- Assembly Information -->
     <AssemblyTitle>taskKiller Core</AssemblyTitle>
     <Product>taskKiller</Product>
-    <Description>Core library for managing and killing Windows processes</Description>
+    <Description>Cross-platform .NET library for reading and writing taskKiller data files with full backward compatibility</Description>
 
     <!-- Version Information - Keep these three in sync -->
     <Version>0.1.0</Version>

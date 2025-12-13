@@ -11,7 +11,7 @@
     <!-- Assembly Information -->
     <AssemblyTitle>taskKiller Round</AssemblyTitle>
     <Product>taskKiller</Product>
-    <Description>Console application for periodically killing specified Windows processes</Description>
+    <Description>Test application for validating taskKiller data file integrity through shuffle, sort, and byte-level verification</Description>
 
     <!-- Version Information -->
     <Version>0.1.0</Version>
