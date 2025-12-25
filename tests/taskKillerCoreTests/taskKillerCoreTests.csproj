@@ -7,7 +7,7 @@
     <IsPackable>false</IsPackable>
 
     <!-- Explicitly set to use dots in namespace paths while keeping folder names dot-free -->
-    <RootNamespace>TaskKiller.Tests</RootNamespace>
+    <RootNamespace>TaskKiller.Core.Tests</RootNamespace>
 
     <!-- Version Information - Keep in sync with taskKillerCore.csproj -->
     <Version>0.1.0</Version>
